@@ -139,7 +139,7 @@ header .textos-header{
 .imagen-port{
     width: 24%;
     margin-bottom: 10px;
-    /* height: 250px; PARA COLOCAR LA IMAGEN MAS PEQUENA*/ 
+    height: 250px; 
     overflow: hidden;
     position: relative;
     cursor: pointer;
